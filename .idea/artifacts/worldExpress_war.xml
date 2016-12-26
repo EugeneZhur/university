@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="worldExpress:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="worldExpress.war">
+      <element id="artifact" artifact-name="worldExpress:war exploded" />
+    </root>
+  </artifact>
+</component>
